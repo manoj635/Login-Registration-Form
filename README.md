@@ -1,5 +1,4 @@
 # register-login-page
 
-一个优美的登陆注册页面
+Simple Login and Register
 
-![demo](demo.gif)
